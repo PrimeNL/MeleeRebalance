@@ -3,7 +3,7 @@ Unfuck melee class with this simple fix!
 
 While a melee type weapon is active you get a damage reduction (stole this idea from Diablo 3)
 
-# TModLoader version
+# tModLoader version
 1.4_mergedtesting
 
 # Terraria version
