@@ -1,7 +1,7 @@
 # MeleeRebalance
 Unfuck melee class with this simple fix!
 
-While a melee type weapon is active you get a damage reduction (stole this idea from Diablo 3)
+While a melee type weapon is active you get a 30% damage reduction (before armor), stole this idea from Diablo 3
 
 # tModLoader version
 1.4_mergedtesting
