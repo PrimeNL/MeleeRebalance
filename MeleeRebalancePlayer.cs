@@ -5,7 +5,7 @@ namespace MeleeRebalance {
     public class MeleeRebalancePlayer : ModPlayer {
 		public override void PreUpdateBuffs() {
             if(Player.HeldItem.DamageType == DamageClass.Melee) {
-                Player.AddBuff(BuffType<Buffs.MeleeRebalanceBuff>(), 30, true);
+                Player.AddBuff(BuffType<Buffs.MeleeRebalanceBuff>(), 10, true);
             }
         }
     }
